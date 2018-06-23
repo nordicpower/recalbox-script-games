@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./nebulous.sh</path>
+    <name>NEBULOUS (TOWER TOPPLER)</name>
+    <desc>NEBULOUS EST UN HOMMAGE AU CELEBRE JEU NEBULUS DE 1988 SORTI SUR C64, AMIGA ET ATARI. DANS LE PEAU D'UN MIGNON ANIMAL VERT, VOUS DEVREZ GRAVIR UNE TOUR PEUPLEE D'ETRANGES HABITANTS QUI VEULENT TOUS VOUS FAIRE TOMBER, SI POSSIBLE DANS L'EAU. VOTRE SEUL DEFENSE UNE BOULLE QUE VOUS POUVEZ LANCER DEVANT VOUS ET VOTRE AGILITE. LA PARTICULARITE DE CE JEU EST QUE VOUS GRAVISSEZ LA TOUR EN TOURNANT AUTOUR DE CELLE-CI</desc>
+    <image>./images/nebulous-image.png</image>
+		<thumbnail>./images/nebulous-image.png</thumbnail>
+		<rating>1</rating>
+		<releasedate>20121222T000000</releasedate>
+		<developer>http://toppler.sourceforge.net/</developer>
+		<publisher>http://toppler.sourceforge.net/</publisher>
+		<genre>ACTION</genre>
+  </game>
+</gameList>

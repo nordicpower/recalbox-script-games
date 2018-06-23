@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>RETROUVER LES JEUX NATIFS ET ADAPTATION DESTINES AU</text>
+		</text>
+		<text name="info2" extra="true">	
+			<text>SYSTEME D'EXPLOITATION LINUX. TUX EST LA MASQUOTTE</text>
+		</text>
+		<text name="info3" extra="true">	
+			<text>DE LINUX QUI REPRESENTE UN MANCHOT, IL APPARAIT</text>
+		</text>
+		<text name="info4" extra="true">	
+			<text>DANS DE NOMBREUX JEUX.</text>
+		</text>
+		<text name="info5" extra="true">	
+			<text></text>
+		</text>
+		<text name="info6" extra="true">	
+			<text></text>
+		</text>
+		<text name="info7" extra="true">
+			<text></text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text></text>
+		</text>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="eu">
+			<color>39B54A</color>
+		</image>
+		<image name="band2" extra="true" region="eu">
+			<color>FF0000</color>
+		</image>
+		<image name="band3" extra="true" region="eu">
+			<color>F2CA30</color>
+		</image>
+		<image name="band4" extra="true" region="eu">
+			<color>FFFFFF</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="jp">
+			<color>39B54A</color>
+		</image>
+		<image name="band2" extra="true" region="jp">
+			<color>FF0000</color>
+		</image>
+		<image name="band3" extra="true" region="jp">
+			<color>F2CA30</color>
+		</image>
+		<image name="band4" extra="true" region="jp">
+			<color>FFFFFF</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="us">
+			<color>39B54A</color>
+		</image>
+		<image name="band2" extra="true" region="us">
+			<color>FF0000</color>
+		</image>
+		<image name="band3" extra="true" region="us">
+			<color>F2CA30</color>
+		</image>
+		<image name="band4" extra="true" region="us">
+			<color>FFFFFF</color>
+		</image>
+	</view>
+		
+</theme>

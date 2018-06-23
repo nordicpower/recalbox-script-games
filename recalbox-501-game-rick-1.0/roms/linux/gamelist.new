@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./xrick_map1.sh</path>
+    <name>RICK DANGEROUS (EP1 : AMERIQUE DU SUD)</name>
+    <desc>XRICK EST UN REMAKE DE RICK DANGEROUS, UN JEU D'ARCADE DES ANNEES 90. CET INDIANA JONES DOIT TRAVERSER DES TEMPLES INCAS, DES PYRAMIDES ET AUTRES LIEUX RENFERMANT DES RELIQUES INESTIMABLES, TOUT EN EVITANT LES PIERRES, LES INDIGENES, LES TRAPPES ET AUTRES PIEGES DISSEMINES SUR SON CHEMIN. POUR REMPLIR VOS MISSIONS ET SAUVER VOTRE PEAU, VOUS DISPOSEZ D'UN REVOLVER, D'UN BATON ET DE BATONS DE DYNAMITE, MAIS EGALEMENT DE VOTRE DEXTERITE A ENCHAINER LES NIVEAUX.
+-----------------------------{ COMMANDES }-----------------------------------
+BOUTON LB/F7 : TRAINER         BOUTON RB/F8 : NE MEURT JAMAIS !
+BOUTON SELECT/ESC : QUITTER</desc>
+    <image>./images/xrick_map1-image.png</image>
+		<thumbnail>./images/xrick_map1-image.png</thumbnail>
+    <releasedate>20121212T000000</releasedate>
+    <rating>1</rating>
+    <developer>bigorno.net</developer>
+    <publisher>http://bigorno.net/xrick</publisher>
+    <genre>PLATEFORME</genre>
+  </game>
+  <game>
+    <path>./xrick_map2.sh</path>
+    <name>RICK DANGEROUS (EP2 : EGYPTE)</name>
+    <desc>XRICK EST UN REMAKE DE RICK DANGEROUS, UN JEU D'ARCADE DES ANNEES 90. CET INDIANA JONES DOIT TRAVERSER DES TEMPLES INCAS, DES PYRAMIDES ET AUTRES LIEUX RENFERMANT DES RELIQUES INESTIMABLES, TOUT EN EVITANT LES PIERRES, LES INDIGENES, LES TRAPPES ET AUTRES PIEGES DISSEMINES SUR SON CHEMIN. POUR REMPLIR VOS MISSIONS ET SAUVER VOTRE PEAU, VOUS DISPOSEZ D'UN REVOLVER, D'UN BATON ET DE BATONS DE DYNAMITE, MAIS EGALEMENT DE VOTRE DEXTERITE A ENCHAINER LES NIVEAUX.
+-----------------------------{ COMMANDES }-----------------------------------
+BOUTON LB/F7 : TRAINER         BOUTON RB/F8 : NE MEURT JAMAIS !
+BOUTON SELECT/ESC : QUITTER</desc>
+    <image>./images/xrick_map2-image.png</image>
+		<thumbnail>./images/xrick_map2-image.png</thumbnail>
+    <releasedate>20121212T000000</releasedate>
+    <rating>1</rating>
+    <developer>bigorno.net</developer>
+    <publisher>http://bigorno.net/xrick</publisher>
+    <genre>PLATEFORME</genre>
+  </game>
+  <game>
+    <path>./xrick_map3.sh</path>
+    <name>RICK DANGEROUS (EP3 : CHATEAU Schwarzendumpf)</name>
+    <desc>XRICK EST UN REMAKE DE RICK DANGEROUS, UN JEU D'ARCADE DES ANNEES 90. CET INDIANA JONES DOIT TRAVERSER DES TEMPLES INCAS, DES PYRAMIDES ET AUTRES LIEUX RENFERMANT DES RELIQUES INESTIMABLES, TOUT EN EVITANT LES PIERRES, LES INDIGENES, LES TRAPPES ET AUTRES PIEGES DISSEMINES SUR SON CHEMIN. POUR REMPLIR VOS MISSIONS ET SAUVER VOTRE PEAU, VOUS DISPOSEZ D'UN REVOLVER, D'UN BATON ET DE BATONS DE DYNAMITE, MAIS EGALEMENT DE VOTRE DEXTERITE A ENCHAINER LES NIVEAUX.
+-----------------------------{ COMMANDES }-----------------------------------
+BOUTON LB/F7 : TRAINER         BOUTON RB/F8 : NE MEURT JAMAIS !
+BOUTON SELECT/ESC : QUITTER</desc>
+    <image>./images/xrick_map3-image.png</image>
+		<thumbnail>./images/xrick_map3-image.png</thumbnail>
+    <releasedate>20121212T000000</releasedate>
+    <rating>1</rating>
+    <developer>bigorno.net</developer>
+    <publisher>http://bigorno.net/xrick</publisher>
+    <genre>PLATEFORME</genre>
+  </game>
+  <game>
+    <path>./xrick_map4.sh</path>
+    <name>RICK DANGEROUS (EP4 : BASE DE MISSILES)</name>
+    <desc>XRICK EST UN REMAKE DE RICK DANGEROUS, UN JEU D'ARCADE DES ANNEES 90. CET INDIANA JONES DOIT TRAVERSER DES TEMPLES INCAS, DES PYRAMIDES ET AUTRES LIEUX RENFERMANT DES RELIQUES INESTIMABLES, TOUT EN EVITANT LES PIERRES, LES INDIGENES, LES TRAPPES ET AUTRES PIEGES DISSEMINES SUR SON CHEMIN. POUR REMPLIR VOS MISSIONS ET SAUVER VOTRE PEAU, VOUS DISPOSEZ D'UN REVOLVER, D'UN BATON ET DE BATONS DE DYNAMITE, MAIS EGALEMENT DE VOTRE DEXTERITE A ENCHAINER LES NIVEAUX.
+-----------------------------{ COMMANDES }-----------------------------------
+BOUTON LB/F7 : TRAINER         BOUTON RB/F8 : NE MEURT JAMAIS !
+BOUTON SELECT/ESC : QUITTER</desc>
+    <image>./images/xrick_map4-image.png</image>
+		<thumbnail>./images/xrick_map4-image.png</thumbnail>
+    <releasedate>20121212T000000</releasedate>
+    <rating>1</rating>
+    <developer>bigorno.net</developer>
+    <publisher>http://bigorno.net/xrick</publisher>
+    <genre>PLATEFORME</genre>
+  </game>
+</gameList>
